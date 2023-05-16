@@ -11,6 +11,17 @@ Once they were voted their access had been denied to vote again. And they can se
 
 # Login Page
 1.Admin Login:
-![image](https://github.com/sumanth44a/Desktop-Voting-Application/assets/114097800/dbb66f73-affa-4262-a31d-8d9a5fccc7a9)
-
 If the login type is admin then he will be directed to Admin page in which it display the four options.
+a.Start Election
+b.End Election
+c.Release Results
+d.Vote
+
+2.User Login:
+If the login type is User then he will be directed to the Dashboard page and display the five options.
+The admin had to start the election and release the results in order to goto the Dashboard and see the results respectively.
+a.Vote
+b.Results
+c.Voters List
+d.Parties List
+e.Back to Login
