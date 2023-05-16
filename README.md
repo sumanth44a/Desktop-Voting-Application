@@ -11,6 +11,6 @@ Once they were voted their access had been denied to vote again. And they can se
 
 # Login Page
 1.Admin Login:
-![image](https://github.com/sumanth44a/Desktop-Voting-Application/assets/114097800/1c964cdf-0663-4af6-bba5-6a6e9b35bf85)
+![image](https://github.com/sumanth44a/Desktop-Voting-Application/assets/114097800/dbb66f73-affa-4262-a31d-8d9a5fccc7a9)
 
 If the login type is admin then he will be directed to Admin page in which it display the four options.
