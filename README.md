@@ -10,14 +10,14 @@ Once they were voted their access had been denied to vote again. And they can se
 2. MySQL Database/ Workbench
 
 # Login Page
-1.Admin Login:
+#Admin Login:
 If the login type is admin then he will be directed to Admin page in which it display the four options.
 a.Start Election
 b.End Election
 c.Release Results
 d.Vote
 
-2.User Login:
+#User Login:
 If the login type is User then he will be directed to the Dashboard page and display the five options.
 The admin had to start the election and release the results in order to goto the Dashboard and see the results respectively.
 a.Vote
