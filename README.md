@@ -8,3 +8,9 @@ Once they were voted their access had been denied to vote again. And they can se
 # Resources Used:
 1. NetBeans IDE /Java
 2. MySQL Database/ Workbench
+
+# Login Page
+1.Admin Login:
+![image](https://github.com/sumanth44a/Desktop-Voting-Application/assets/114097800/1c964cdf-0663-4af6-bba5-6a6e9b35bf85)
+
+If the login type is admin then he will be directed to Admin page in which it display the four options.
